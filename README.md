@@ -1,7 +1,7 @@
 # Fuzzy-Energy-System
 A fuzzy logic energy system featuring rule generation with decision trees. The rule base was optimized with a hybrid feature selector. The system was applied on residential energy data for appliance consumption as a case study.
 
-This project contains the code and experiments of my 2020 publication. This work is a contribution towards my PhD studies.
+This project contains the code and experiments of my 2020-2021 publication. This work is a contribution towards my PhD studies.
 
 Dataset used for this study: https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
 
