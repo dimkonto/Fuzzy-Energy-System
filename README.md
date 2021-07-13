@@ -8,3 +8,6 @@ Dataset used for this study: https://archive.ics.uci.edu/ml/datasets/Appliances+
 GitHub Repository of the original dataset publication that inspired my work: https://github.com/LuisM78/Appliances-energy-prediction-data
 
 L. Candanedo, V. Feldheim and D. Deramaix, "Data driven prediction models of energy use of appliances in a low-energy house", Energy and Buildings, vol. 140, pp. 81-97, 2017. Available: 10.1016/j.enbuild.2017.01.083 [Accessed 18 November 2020].
+
+Reference to published work:
+Kontogiannis, D.; Bargiotas, D.; Daskalopulu, A. Fuzzy Control System for Smart Energy Management in Residential Buildings Based on Environmental Data. Energies 2021, 14, 752. https://doi.org/10.3390/en14030752
